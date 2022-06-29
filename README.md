@@ -13,4 +13,4 @@
 ![p](screenshoot/1.png)<br>
 
 **Tabel Pasien**<br>
-![p](screenshoot/2m.png)<br>
+![p](screenshoot/2.png)<br>
