@@ -6,3 +6,7 @@
 # Soal
 # 1. Menggunkan data yang dibuat dari soal Uts kemarin,Buat koneksi dengan php / bhs pemrograman lain.
 # 2. Tampilkan data tabelnya masing2
+
+# Hasil
+
+# Home
