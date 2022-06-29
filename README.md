@@ -16,4 +16,3 @@
 ![p](screenshoot/2.png.png)<br>
 
 **Tabel Obat**<br>
-![p](screenshoot/3.png.png.png)<br>
