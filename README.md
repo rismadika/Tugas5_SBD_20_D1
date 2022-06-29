@@ -9,5 +9,7 @@
 
 # Hasil
 
-**home.php**<br>
+**home sistem klinik**<br>
 ![p](screenshoot/1.png)<br>
+
+**tabel pasien**<br>
