@@ -17,3 +17,5 @@
 
 **Tabel Obat**<br>
 ![p](screenshoot/3.png)<br>
+
+**Tabel Dokter**<br>
