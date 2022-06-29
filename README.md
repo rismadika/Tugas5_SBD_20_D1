@@ -9,8 +9,10 @@
 
 # Hasil
 
-**home sistem klinik**<br>
+**Home Sistem Klinik**<br>
 ![p](screenshoot/1.png)<br>
 
-**tabel pasien**<br>
+**Tabel Pasien**<br>
 ![p](screenshoot/2.png.png)<br>
+
+**Tabel Obat**<br>
