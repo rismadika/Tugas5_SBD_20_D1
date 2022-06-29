@@ -14,3 +14,5 @@
 
 **Tabel Pasien**<br>
 ![p](screenshoot/2.png)<br>
+
+**Tabel Obat**<br>
