@@ -25,3 +25,4 @@
 ![p](screenshoot/4.png)<br>
 
 **Tabel Resep Obat**<br>
+![p](screenshoot/7.png)<br>
