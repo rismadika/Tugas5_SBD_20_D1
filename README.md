@@ -23,3 +23,5 @@
 
 **Tabel Berobat**<br>
 ![p](screenshoot/4.png)<br>
+
+**Tabel Resep Obat**<br>
