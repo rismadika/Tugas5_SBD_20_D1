@@ -13,6 +13,4 @@
 ![p](screenshoot/1.png)<br>
 
 **Tabel Pasien**<br>
-![p](screenshoot/2.png.png)<br>
-
-**Tabel Obat**<br>
+![p](screenshoot/2m.png)<br>
